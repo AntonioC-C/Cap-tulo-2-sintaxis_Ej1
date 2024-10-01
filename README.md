@@ -1,10 +1,12 @@
 # Cap-tulo-2-sintaxis_Ej1
-Ej1 - Script que resuelve ecuaciones de segundo grado
+Ej 1 - ec2ndogrado.php
 
-Ej 2 y 3
+Ej 2 - funcion2ndogrado.php
 
-Ej 4
+Ej 3 - matemáticas.php
 
-Ej 5
+Ej 4 - palindromo.php
 
-Ej 6
+Ej 5 - numlimite.php
+
+Ej 6 - ej6.php
